@@ -144,7 +144,7 @@ Wolf et al. (2020). Transformers: State-of-the-art NLP. *EMNLP.*
 }
 ```
 
-MIT
+Apache 2.0
 
 ---
 
