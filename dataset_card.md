@@ -1,5 +1,5 @@
 ---
-license: mit
+license: Apache 2.0
 task_categories:
   - text-classification
 language:
