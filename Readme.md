@@ -1,4 +1,4 @@
-# AQLES -- Probing Transformer Hidden States for Quality Geometry
+# AQLES - Probing Transformer Hidden States for Quality Geometry
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabthebest/aqles/blob/main/notebook.ipynb)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
