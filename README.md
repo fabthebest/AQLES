@@ -102,8 +102,13 @@ A few specific things I can't do alone:
 
 **Activation patching / mechanistic interpretability.** If you know TransformerLens and find the crystallisation result interesting, I'd welcome a collaboration on the causal follow-up.
 
-I'm an independent researcher , no institutional affiliation, no lab. I'm looking for collaborators who find the questions interesting, not co-authors to fill out a roster.
+Affiliation and Disclaimer
 
+The author is an independent researcher with no institutional affiliation.
+This work was conducted independently and is not affiliated with,funded by, or endorsed by any organization, including Anthropic,
+DeepSeek, OpenAI, or other AI companies.
+
+The author welcomes collaboration based on shared intellectual interest rather than formal affiliation.
 ---
 
 ## Limitations (honest version)
