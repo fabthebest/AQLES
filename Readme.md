@@ -97,14 +97,12 @@ H7	Is there a crystallisation layer?	Jump of 2.4 to 8.9x at about 25 to 30% dept
 What is still open
 Activation patching to identify which attention heads cause the bias: the step from correlation to intervention that Anthropic's paper demonstrates for emotions but that remains undone for quality. Cross-lingual replication in Mandarin and Arabic. Scale testing on Llama-3. Neuron-level ablation to establish direct causal mechanisms.
 
-Looking for collaborators
-A few specific things I cannot do alone:
-
-Cross-lingual lexicon construction. I need help building equivalent 5-tier quality lexicons in Mandarin Chinese and Arabic, same structure, 40 words per tier. If you are a native speaker with some NLP familiarity and this sounds interesting, open an issue or reach out directly.
+Looking for collaborators in these areas:
+Cross-lingual lexicon construction**. I need help building equivalent 5-tier quality lexicons in Mandarin Chinese and Arabic, same structure, 40 words per tier. If you are a native speaker with some NLP familiarity and this sounds interesting, open an issue or reach out directly.
 
 Scale testing. Running AQLES on Llama-3-8B or Mistral-7B requires more than free Colab. If you have A100 access and want to collaborate, let us talk.
 
-Activation patching / mechanistic interpretability. If you know TransformerLens and find the crystallisation result interesting, I would welcome a collaboration on the causal follow-up.
+Activation patching / mechanistic interpretability**. If you know TransformerLens and find the crystallisation result interesting, I would welcome a collaboration on the causal follow-up.
 
 Affiliation and Disclaimer
 
