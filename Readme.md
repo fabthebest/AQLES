@@ -1,5 +1,5 @@
 # AQLES - Probing Transformer Hidden States for Quality Geometry
-
+**Author:** Fabrice Fils-Aimé
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabthebest/aqles/blob/main/notebook.ipynb)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Dataset on HF](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-blue)](https://huggingface.co/datasets/fabthebest/aqles-quality-lexicon)
