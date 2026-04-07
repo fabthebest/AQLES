@@ -106,7 +106,13 @@ Scale testing. Running AQLES on Llama-3-8B or Mistral-7B requires more than free
 
 Activation patching / mechanistic interpretability. If you know TransformerLens and find the crystallisation result interesting, I would welcome a collaboration on the causal follow-up.
 
-I am an independent researcher with no institutional affiliation and no lab. I am looking for collaborators who find the questions interesting, not co-authors to fill out a roster.
+Affiliation and Disclaimer
+
+The author is an independent researcher with no institutional affiliation.
+This work was conducted independently and is not affiliated with,funded by, or endorsed by any organization, including Anthropic,
+DeepSeek, OpenAI, or other AI companies.
+
+The author welcomes collaboration based on shared intellectual interest rather than formal affiliation.
 
 How this was built
 I designed the experimental protocol, chose the methodology, and interpreted all results. The implementation uses standard tools (scikit-learn, HuggingFace Transformers). Claude and DeepSeek assisted with code generation and debugging. The research questions, experimental architecture, and analysis decisions are mine.
