@@ -1,6 +1,6 @@
 """
-AQLES Quality Scorer — Gradio Demo with 3D Visualisation
-==========================================================
+AQLES Quality Scorer - Gradio Demo with 3D Visualisation
+"""
 Run locally:  python app.py
 On Colab:     paste this code in a cell, it auto-launches with share=True
 """
